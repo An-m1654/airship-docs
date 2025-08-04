@@ -40,8 +40,8 @@ The character is controlled by a Rigidbody and Box Collider. The Box Collider is
 The rotation happens purely on the graphical elements of the hierarchy. Specifically on the NetworkedGraphicsHolder. So if you want to get the rotation of the character you will need to grab the rotation from that transform, or use the look vector from the CharacterMovement component
 
 ```typescript
-//To get the NetworkedGraphicsHolder rotation
-character.movement.networkTransform.rotation;
+//To get the characters rotation
+character.movement.graphicTransform.rotation;
 
 //To get the look vector of the character
 character.movement.GetLookVector();
