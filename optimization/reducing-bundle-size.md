@@ -12,7 +12,7 @@ Only include assets you really need. Be sure to compress your assets as much as 
 
 Most assets in Unity has optional compression settings. Be sure to intentionally set this on your assets.&#x20;
 
-{% hint style="success" %}
+{% hint style="info" %}
 If you want to change the default compression settings on all imported assets you can use [Unity's Preset Manager](https://docs.unity3d.com/6000.1/Documentation/Manual/class-PresetManager.html)
 {% endhint %}
 
