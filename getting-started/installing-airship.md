@@ -40,6 +40,16 @@ This project has everything prepared to start building a game on Airship.&#x20;
 Airship will start downloading required asset packages. This may take a few minutes.&#x20;
 {% endhint %}
 
+If you see an LTS error you may need to restart Unity Hub. Close Unity, and Unity Hub and then reopen Unity Hub and your template project.
+
+<figure><img src="../.gitbook/assets/image (108).png" alt="" width="287"><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Unity hub may still be open in your system tray. Right click on the unity icon and select "Quit Unity Hub" to fully close it.
+
+<p align="center"><img src="../.gitbook/assets/image (107).png" alt="" data-size="original"></p>
+{% endhint %}
+
 ### Play the Game
 
 You're now ready to play the game. Click the play button in Unity.\
