@@ -35,7 +35,7 @@
   * [Game Visibility](publishing/game-visibility.md)
   * [Game Loading Screens](publishing/create-dashboard-game-cms/game-loading-screens.md)
 * [Publish Game](publishing/publish-game.md)
-* [Publishing with API Key](publishing/publishing-with-api-key.md)
+* [Publishing with API Key](other/publishing-with-api-key.md)
 
 ## Core Package
 
@@ -70,8 +70,10 @@
 
 ## Unity For Airship
 
-* [Quick Overview](unity-for-airship/quick-overview.md)
+* [Quick Overview](getting-started/quick-overview.md)
 * [DataType Math](unity-for-airship/datatype-math.md)
+* [Random](unity-for-airship/random.md)
+* [Resources Folder](unity-for-airship/resources-folder.md)
 * [Physics Settings](unity-for-airship/physics-settings.md)
 * [Physics Layers](unity-for-airship/physics-layers.md)
 * [Animation Events](unity-for-airship/animation-events.md)
@@ -79,7 +81,6 @@
   * [Actions](unity-for-airship/user-input/actions.md)
   * [Keyboard](unity-for-airship/user-input/keyboard.md)
   * [Mouse](unity-for-airship/user-input/mouse.md)
-* [Random](unity-for-airship/random.md)
 * [Easy Helper Utils](unity-for-airship/easy-helper-utils/README.md)
   * [Material Color URP](unity-for-airship/easy-helper-utils/material-color-urp.md)
   * [Easy Motion](unity-for-airship/easy-helper-utils/easy-motion.md)
