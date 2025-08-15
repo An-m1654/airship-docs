@@ -4,7 +4,6 @@
 
 * [Welcome to Airship](README.md)
 * [Installing Airship](getting-started/installing-airship.md)
-* [Quick Overview](getting-started/quick-overview.md)
 
 ## TypeScript
 
@@ -33,9 +32,10 @@
 ## Publishing
 
 * [Create Dashboard - Game CMS](publishing/create-dashboard-game-cms/README.md)
-  * [Game Visibility](publishing/create-dashboard-game-cms/game-visibility.md)
+  * [Game Visibility](publishing/game-visibility.md)
   * [Game Loading Screens](publishing/create-dashboard-game-cms/game-loading-screens.md)
 * [Publish Game](publishing/publish-game.md)
+* [Publishing with API Key](publishing/publishing-with-api-key.md)
 
 ## Core Package
 
@@ -50,7 +50,7 @@
   * [Prefab Voxels](core-package/voxelworld/prefab-voxels.md)
   * [QuarterBlocks](core-package/voxelworld/quarterblocks.md)
 * [Enable / Disable Core Features](core-package/enable-disable-core-features.md)
-* [Developer Console](core-package/developer-console.md)
+* [Developer Console](publishing/developer-console.md)
 
 ## Platform Services
 
@@ -70,6 +70,7 @@
 
 ## Unity For Airship
 
+* [Quick Overview](unity-for-airship/quick-overview.md)
 * [DataType Math](unity-for-airship/datatype-math.md)
 * [Physics Settings](unity-for-airship/physics-settings.md)
 * [Physics Layers](unity-for-airship/physics-layers.md)
@@ -126,7 +127,6 @@
 
 ## Other
 
-* [Publishing with API Key](other/publishing-with-api-key.md)
 * [FAQ](other/faq.md)
 * [JavaScript -> Luau](other/javascript-greater-than-luau.md)
 

@@ -1,6 +1,5 @@
 ---
 description: A brief breakdown of how Airship games are built
-hidden: true
 ---
 
 # Quick Overview
