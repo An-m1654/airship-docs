@@ -14,7 +14,7 @@ We use [Blender 3.5](https://download.blender.org/release/Blender3.5/) internall
 
 ## Creating Animations With Blender
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 You can create multiple animations in 1 blender file
 
@@ -23,7 +23,7 @@ You can create multiple animations in 1 blender file
 * Create a new Action
 * Each action will export as an individual Animation Clip for Unity
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Exporting to FBX
 
@@ -39,7 +39,7 @@ You can save your settings a preset for quick setup next time.
 Click the + icon on the top right of the export window.
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="379"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (3) (2).png" alt="" width="379"><figcaption></figcaption></figure></div>
 
 
 

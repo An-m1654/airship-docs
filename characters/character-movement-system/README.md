@@ -37,7 +37,7 @@ You can see a breakdown of the variables [On This Page](character-movement-data.
 
 The character is controlled by a Rigidbody and Box Collider. The Box Collider is axis aligned. Meaning the root of your character DOES NOT ROTATE.&#x20;
 
-The rotation happens purely on the graphical elements of the hierarchy. Specifically on the NetworkedGraphicsHolder. So if you want to get the rotation of the character you will need to grab the rotation from that transform, or use the look vector from the CharacterMovement component
+The rotation happens purely on the graphical elements of the hierarchy. Specifically on the GraphicTransform of the movement class. So if you want to get the rotation of the character you will need to grab the rotation from that transform, or use the look vector from the CharacterMovement component
 
 ```typescript
 //To get the characters rotation

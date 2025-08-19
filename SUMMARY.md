@@ -43,7 +43,6 @@
 * [Chat Commands](core-package/chat-commands.md)
 * [Proximity Prompts](core-package/proximity-prompts.md)
 * [Inventory](core-package/inventory.md)
-* [Spawning Characters](core-package/spawning-characters.md)
 * [VoxelWorld](core-package/voxelworld/README.md)
   * [Voxel World Getting Started](core-package/voxelworld/voxel-world-getting-started.md)
   * [Voxel World Tips](core-package/voxelworld/voxel-world-tips.md)
@@ -102,8 +101,14 @@
 
 ## CHARACTERS
 
-* [Custom Character](characters/quick-configuration.md)
+* [Character System](characters/character-system/README.md)
+  * [Spawning Characters](characters/character-system/spawning-characters.md)
+  * [Custom Character](characters/character-system/quick-configuration.md)
+  * [First Person Viewmodel](characters/character-system/first-person-viewmodel.md)
+* [Player System](characters/player-system.md)
 * [Character Movement System](characters/character-movement-system/README.md)
+  * [Character Movement Hierarchy](characters/character-movement-system/character-movement-hierarchy.md)
+  * [Character Movement Physics](characters/character-movement-system/character-movement-physics.md)
   * [Character Movement Data](characters/character-movement-system/character-movement-data.md)
   * [Character Movement Events](characters/character-movement-system/character-movement-events.md)
   * [Character Movement Networking](characters/character-movement-system/character-movement-networking/README.md)
@@ -113,7 +118,6 @@
 * [Character Animations](characters/character-animations/README.md)
   * [Character Rig Download](characters/character-animations/character-blender-animations.md)
   * [Character Ragdoll](characters/character-animations/character-ragdoll.md)
-* [First Person Viewmodel](characters/first-person-viewmodel.md)
 
 ## Accessories
 
