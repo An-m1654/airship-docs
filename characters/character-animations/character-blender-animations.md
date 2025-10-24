@@ -14,7 +14,7 @@ We use [Blender 3.5](https://download.blender.org/release/Blender3.5/) internall
 
 ## Creating Animations With Blender
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (2).png>)
 
 You can create multiple animations in 1 blender file
 
@@ -39,7 +39,7 @@ You can save your settings a preset for quick setup next time.
 Click the + icon on the top right of the export window.
 {% endhint %}
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (3) (2).png" alt="" width="379"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt="" width="379"><figcaption></figcaption></figure></div>
 
 
 
@@ -53,7 +53,7 @@ Set the rig type to Generic and assign the character avatar
 
 You should see each Action you made as an Animation Clip in the Animation tab of your file
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4) (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Your animation clips can now be used as variables in AirshipComponents or directly in an Animator state machine.&#x20;
 

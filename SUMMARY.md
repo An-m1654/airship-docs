@@ -68,6 +68,10 @@
 * [Matchmaking](platform-services/matchmaking.md)
 * [External Services](platform-services/external-services.md)
 
+## Editor
+
+* [Create a Custom Inspector (C#)](editor/create-a-custom-inspector-c.md)
+
 ## Unity For Airship
 
 * [Quick Overview](getting-started/quick-overview.md)

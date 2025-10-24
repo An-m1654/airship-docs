@@ -18,6 +18,10 @@ export default class FollowTransform extends AirshipBehaviour {
 
 ## Customizing the Icon
 
+{% hint style="danger" %}
+This method is deprecated, you can now customize the icon by going to the TypeScript asset file, and in the inspector changing the `Icon` field.
+{% endhint %}
+
 By default an `AirshipComponent` has the `AirshipScript` <img src="../../.gitbook/assets/image (30).png" alt="" data-size="line">icon - however this can be changed as like with `MonoBehaviour` scripts
 
 This is done through the `AirshipComponentIcon` decorator. The path should point to a texture in your project.

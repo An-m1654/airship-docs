@@ -35,7 +35,7 @@ This project has everything prepared to start building a game on Airship.&#x20;
     * Windows Build Support (IL2CPP)
     * Mac Build Support (Mono)
 
-<div align="left"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (3) (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Airship will start downloading required asset packages. This may take a few minutes.&#x20;
