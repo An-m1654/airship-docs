@@ -28,7 +28,7 @@ Often the character will be loading their select outfit which writes to the acce
 If you don't want characters to auto load their outfit, there is an option on the `Character` component of your character prefab.
 {% endhint %}
 
-Below is an example of waiting for the outfit load and then adding your own accessories.
+Below is an example of waiting for the outfit to load and then adding your own accessories.
 
 ```typescript
 import { Airship } from "@Easy/Core/Shared/Airship";
@@ -70,3 +70,11 @@ export default class LoadAccessoryList extends AirshipBehaviour {
 }
 
 ```
+
+To Test:
+
+* Create a new Typescript file named "LoadAccessoryList" and past this code into it
+* On a GameObject in your scene, click `add typescript component` and select LoadAccessoryList
+* Drag any accessory prefabs from your project into the accPrefab variable on your scene GameObject
+
+Now when your character spawns it will load those accessories.&#x20;

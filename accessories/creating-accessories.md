@@ -2,6 +2,12 @@
 
 Accessories are stored as prefabs with the AccessoryComponent attached to the root gameObject. You can preview the item using our Accessory Editor
 
+Creating Accessory Graphics
+
+If you are making static meshes you can simply create the model in any program and export it as an FBX.&#x20;
+
+If you are skinning the graphics to the character model you will need to use Blender and weight paint your model to the [Blender character](../characters/character-animations/character-blender-animations.md). Be sure to export the FBX as suggested on the [Character Blender Page](../characters/character-animations/character-blender-animations.md).
+
 ### Create A New Accessory
 
 Any prefab with an AccessoryComponent on its root game object can be used as an accessory.
