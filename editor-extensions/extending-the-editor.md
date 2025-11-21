@@ -51,7 +51,6 @@ Airship has the following user editor APIs you can use:
   * See [AirshipBehaviour inspectors](airshipbehaviour-inspectors-c.md) for how to add custom editors
 * `AirshipType` which is the Airship version of `Type` for TypeScript-based types.
   * Types can be queried using `AirshipType.GetType(name)`&#x20;
-  * To get&#x20;
 * `AirshipEditorGUI` - for drawing editor properties for `AirshipSerializedProperty` instances using IMGUI.
 * `AirshipGUI` for general Airship GUI state
 * `TypescriptService` for general TypeScript APIs
