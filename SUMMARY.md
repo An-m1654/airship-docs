@@ -136,6 +136,7 @@
 * [Creating Accessories](accessories/creating-accessories.md)
 * [Using Accessories](accessories/using-accessories.md)
 * [Using Accessory Customization](accessories/using-accessory-customization.md)
+* [Uploading Outfit Accessories](accessories/uploading-outfit-accessories.md)
 
 ## Optimization
 
