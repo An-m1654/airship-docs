@@ -73,7 +73,7 @@
 ## Editor Extensions
 
 * [Extending the editor](editor-extensions/extending-the-editor.md)
-* [AirshipBehaviour Inspectors (C#)](editor-extensions/airshipbehaviour-inspectors-c.md)
+* [Custom Inspectors (C#)](editor-extensions/custom-inspectors-c.md)
 * [Editor API (C#)](editor-extensions/editor-api-c.md)
 
 ## Unity For Airship

@@ -1,13 +1,7 @@
-# AirshipBehaviour Inspectors (C#)
+# Custom Inspectors (C#)
 
-{% hint style="danger" %}
+{% hint style="info" %}
 <i class="fa-flask-round-potion">:flask-round-potion:</i> This is currently a beta feature being tested in Airship and includes a rewrite of the inspector system. The API is subject to change.
-
-***
-
-To enable this beta feature, go to Project Settings -> Editor Beta Features -> and set **AirshipEditors v2** to `Enabled`.\
-\
-This feature will be set as the default when it's determined that it is stable.
 {% endhint %}
 
 While Airship will generate a default inspector for `AirshipBehaviour` components, you may want to create a custom inspector to:

@@ -3,9 +3,8 @@
 {% hint style="danger" %}
 <i class="fa-flask">:flask:</i>`AirshipScriptableObject` is in beta pending full release, and may not work on some platforms yet
 
-* <i class="fa-xmark">:xmark:</i> Editor
-* <i class="fa-xmark">:xmark:</i> Windows and MacOS
-* <i class="fa-xmark">:xmark:</i> Android and iOS
+* <i class="fa-xmark-large">:xmark-large:</i> Windows and MacOS
+* <i class="fa-xmark-large">:xmark-large:</i> Android and iOS
 
 Using this feature on currently unsupported platforms may not work as expected.
 {% endhint %}
@@ -13,6 +12,10 @@ Using this feature on currently unsupported platforms may not work as expected.
 `AirshipScriptableObject` is a class you can derive from to create objects that live independently of GameObjects.  This allows you to save data as an asset to use at runtime.
 
 Like [ScriptableObject](https://docs.unity3d.com/6000.2/Documentation/ScriptReference/ScriptableObject.html) in Unity, they are accessible from scenes and assets within a project.
+
+{% hint style="info" %}
+Changing values in a Scriptable Object requires a full publish (as it is an asset) instead of a code publish to update, if you need a value that can be changed via a code publish, you should be storing it in code.
+{% endhint %}
 
 <pre class="language-typescript"><code class="lang-typescript">// This will show in Create -> ScriptableObjects -> Example Data Object by default
 @CreateAssetMenu()
