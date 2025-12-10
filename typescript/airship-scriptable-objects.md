@@ -1,9 +1,9 @@
 # Airship Scriptable Objects
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 <i class="fa-flask">:flask:</i>`AirshipScriptableObject` is in beta pending full release, and may not work on some platforms yet
 
-* <i class="fa-xmark-large">:xmark-large:</i> Windows and MacOS
+* <i class="fa-check">:check:</i> Windows and MacOS
 * <i class="fa-xmark-large">:xmark-large:</i> Android and iOS
 
 Using this feature on currently unsupported platforms may not work as expected.
