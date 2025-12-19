@@ -11,7 +11,7 @@ hidden: true
 * **Outfit Data** holds the players chosen customization's on the server
 * **Custom Acc Setter** components use the data and apply it to the graphics
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure></div>
 
 ###
 
@@ -21,11 +21,11 @@ Currently there are two types of custom data. Colors and Variants
 
 **Colors** - Colors can be used by the setters to modify any visuals needed. The key is the value displayed to the user and the value used to save into the outfit. The color is what color the setter will use. The scheme determines what color swatches to display in the avatar editor.&#x20;
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure></div>
 
 **Variants** - Versions of accessories that swap out based on the users chosen index.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure></div>
 
 ###
 
@@ -35,11 +35,11 @@ When selecting an accessory to equip the available customization options will di
 
 Colors display as a set of swatches and a color picker.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure></div>
 
 Variants display as buttons with 1 selected at a time.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure></div>
 
 ###
 
