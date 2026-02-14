@@ -30,8 +30,8 @@ This project has everything prepared to start building a game on Airship.&#x20;
     * Android Build Support
     * iOS Build Support
     * Linux Build Support (IL2CPP)
-    * Windows Build Support (IL2CPP)
-    * Mac Build Support (Mono)
+    * Windows Build Support (Mono)
+    * Mac Build Support (IL2CPP)
 
 <div align="left"><figure><img src="../.gitbook/assets/image (3) (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
